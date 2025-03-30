@@ -1,0 +1,4 @@
+Die verwendeten Daten stammen aus dem öffentlichen Datensatz "Online Retail" des UCI Machine Learning Repository:
+https://archive.ics.uci.edu/ml/datasets/Online+Retail
+
+Die CSV-Datei wurde lokal gespeichert, bereinigt (Kommas, Encoding) und in PostgreSQL importiert.

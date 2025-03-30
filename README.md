@@ -14,7 +14,13 @@ Dieses Projekt analysiert Verkaufsdaten eines fiktiven Online-Shops mit SQL. Zie
 - Tabellenstruktur (`schema/`)
 - Importanleitung (`import/`)
 - SQL-Analysen (`sql/`)
-- Planung (`notebooks/`)
+- Ideen (`notebooks/`)
+
+## Umgesetzte SQL-Analysen
+
+- Umsatz nach Ländern, Kunden, Monaten
+- Durchschnittlicher Warenkorbwert
+- Top-Produkte & Rückgabequoten
 
 ## Datenquelle
 
